@@ -1,0 +1,1 @@
+FreaXOS is a FLOSS Unix-like and GNU-based OS which will be available with different kernels running in background, included Linux, BSD, Darwin, React and a hybrid from scratch revolutionary microkernel called, as you intend, Freax.
